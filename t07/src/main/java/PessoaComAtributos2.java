@@ -1,4 +1,4 @@
-public class Pessoa3 {
+public class PessoaComAtributos2 {
     private Data nascimento;
     private String nome;
 }
