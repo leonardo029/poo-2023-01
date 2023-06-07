@@ -1,3 +1,4 @@
 # poo-2023-01
 -----------------------
-mudancas feitas no readme
+* Repositório utilizado na matéria de Programação Orientada a Obejtos;
+* Linguagem escolhida foi Java.
