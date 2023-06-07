@@ -1,1 +1,0 @@
-class Prova implements Identificacao{}
