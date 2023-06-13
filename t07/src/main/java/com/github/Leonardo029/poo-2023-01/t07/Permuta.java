@@ -1,3 +1,5 @@
+package com.github.Leonardo029.poo-2023-01.t07;
+
 public class Permuta {
     public static void Permutacao(String p, String S){
         if(S.length() == 1){
