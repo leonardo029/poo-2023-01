@@ -1,3 +1,8 @@
 package com.github.Leonardo029.poo.t07;
 
-class Prova implements Identificacao{}
+class ProvaInterface implements Identificacao{
+    @Override
+    public String getNome() {
+        return null;
+    }
+}
