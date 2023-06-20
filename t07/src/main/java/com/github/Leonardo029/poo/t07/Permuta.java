@@ -10,7 +10,7 @@ public class Permuta {
             String pLinha;
 
             for(int i=0; i< S.length(); i++){
-                SLinha = S.substring(0,i) + S.substring(i+i);
+                SLinha = S.substring(0,i) + S.substring(i+1);
                 pLinha = p+S.charArt(i);
                 Permutacao(pLinha, Slinha);
             }
