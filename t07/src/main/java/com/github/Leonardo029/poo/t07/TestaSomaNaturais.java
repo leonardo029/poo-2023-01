@@ -1,4 +1,4 @@
-package com.github.Leonardo029.poo-2023-01.t07;
+package com.github.Leonardo029.poo.t07;
 
 public class TestaSomaNaturais {
     public static long SomaNaturais(int n){
