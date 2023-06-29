@@ -1,5 +1,5 @@
 package main.java;
 
-public class Disciplina {
+public class Cidade2 {
     private String nome;
 }

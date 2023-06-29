@@ -1,5 +1,5 @@
 package main.java;
 
-public class Disciplina {
+public class LinguagemDeProgramacao {
     private String nome;
 }
