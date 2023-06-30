@@ -4,5 +4,5 @@ public class Proprietarios {
     private String nome;
     private int idade;
     private double telefone;
-    private String endereco[];
+    private String[] endereco;
 }
