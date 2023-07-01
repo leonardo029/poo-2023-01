@@ -19,15 +19,15 @@ public class Compartimento {
         }else if(nCD > 7){
             cds2 = new ArrayList<CD>();
         }else{
-            System.out.println("A quantidade" + nCD + "de CDs não é válida");
+            System.out.println("A quantidade" + nCD + "de CDs não é válida!");
         }
     }
 
     public void getNCD(){
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Insira a quantidade de cd");
+        System.out.println("Insira a quantidade de cd: ");
         nCD = scanner.nextInt();
         scanner.close();
-        defineTamanhoCD();
+        defineTamanhoCD();  
     }
 }
