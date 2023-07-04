@@ -2,9 +2,9 @@ package com.github.Leonardo029.poo.t07;
 
 import java.util.Date;
 
-public class PessoaComMembros {
+public class PessoaComMembro {
     private Date nascimento;
     private String nome;
-    private PessoaComMembros pai;
-    private PessoaComMembros mae;
+    private PessoaComMembro pai;
+    private PessoaComMembro mae;
 }

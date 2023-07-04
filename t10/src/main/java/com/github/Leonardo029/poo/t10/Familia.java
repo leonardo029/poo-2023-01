@@ -6,6 +6,6 @@ public class Familia{
     private int numeroDeMembros;
     private double telefone;
     private String[] endereco;
-    private ArrayList<Adultos> adultos;
+    private ArrayList<Adulto> adultos;
     private ArrayList<Crianca> criancas;
 }

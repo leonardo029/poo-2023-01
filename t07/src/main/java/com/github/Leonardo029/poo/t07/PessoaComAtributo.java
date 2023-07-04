@@ -1,6 +1,6 @@
 package com.github.Leonardo029.poo.t07;
 
-public class PessoaComAtributos{
+public class PessoaComAtributo{
    private short dia;
    private short mes;
    private short ano;

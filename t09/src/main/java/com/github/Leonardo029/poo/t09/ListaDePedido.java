@@ -1,6 +1,6 @@
 package main.java;
 
-public class ListaDePedidos {
+public class ListaDePedido {
     private String pedidos[];
     private Armazem armazem;
     private Viagem viagem;
