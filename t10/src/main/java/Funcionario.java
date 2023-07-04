@@ -5,5 +5,5 @@ public class Funcionario {
     private int idade;
     private double telefone;
     private String[] endereco;
-    private int salario;
+    private double salario;
 }
