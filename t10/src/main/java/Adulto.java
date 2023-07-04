@@ -1,6 +1,6 @@
 package main.java;
 
-public class Adulto extends Familia {
+public class Adulto{
     private String nome;
     private int idade;
 }
