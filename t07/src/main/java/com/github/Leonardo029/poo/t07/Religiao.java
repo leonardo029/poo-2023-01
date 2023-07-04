@@ -1,5 +1,7 @@
 package com.github.Leonardo029.poo.t07;
 
+import java.util.ArrayList;
+
 public class Religiao{
     private ArrayList devotos;
 
