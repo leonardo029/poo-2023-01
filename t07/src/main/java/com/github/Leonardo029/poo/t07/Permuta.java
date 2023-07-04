@@ -1,4 +1,4 @@
-package com.github.Leonardo029.poo.t07;
+package com.github.leonardo029.poo.t07;
 
 public class Permuta {
     public static void Permutacao(String p, String S){

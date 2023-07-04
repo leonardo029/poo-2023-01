@@ -1,4 +1,4 @@
-package com.github.Leonardo029.poo.t07;
+package com.github.leonardo029.poo.t07;
 
 import java.util.ArrayList;
 import java.util.Collections;
