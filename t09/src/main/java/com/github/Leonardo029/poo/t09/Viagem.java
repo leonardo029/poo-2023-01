@@ -6,5 +6,5 @@ public class Viagem {
     private int idDaViagem;
     private CaixeiroViajante caixeiro;
     private ArrayList<Cidade> cidades;
-    private ArrayList<ListaDePedidos> listaPedidos;
+    private ArrayList<ListaDePedido> listaPedidos;
 }
