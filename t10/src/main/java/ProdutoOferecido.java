@@ -1,6 +1,6 @@
 package main.java;
 
-public class ProdutosOferecidos {
+public class ProdutoOferecido {
     private String departamento;
     private int idDoProduto;
 }

@@ -1,9 +1,8 @@
 package main.java;
 
-public class Funcionarios {
+public class Proprietario {
     private String nome;
     private int idade;
     private double telefone;
     private String[] endereco;
-    private int salario;
 }

@@ -1,5 +1,5 @@
 package main.java;
 
-public class ObjetosNecessarios {
+public class ObjetoNecessario {
     private String[] objetos;
 }

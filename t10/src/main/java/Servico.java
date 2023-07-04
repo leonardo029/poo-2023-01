@@ -1,6 +1,6 @@
 package main.java;
 
-public class Servicos {
+public class Servico {
     private String tipoDeServico;
     private int valor;
 }

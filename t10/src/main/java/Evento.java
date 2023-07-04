@@ -7,7 +7,7 @@ public class Evento {
     private int horaMarcada;
     private Percurso percurso;
     private RoupaAdequada roupaAdequada;
-    private ObjetosNecessarios objetosNecessarios;
-    private ArrayList<Familias> familias;
+    private ObjetoNecessario objetosNecessarios;
+    private ArrayList<Familia> familias;
     private ArrayList<Bicicleta> bicicletas;
 }
