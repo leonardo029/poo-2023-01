@@ -5,6 +5,7 @@ public class ConcString {
     private static String middleName1 = "Moreira ";
     private static String middleName2 = "de ";
     private static String lastName = "Araujo";
+    
     public static void main(String[] args){
         System.out.println("-----Aluno dono do repositorio-----\n");
         System.out.println("Tipo 1");
