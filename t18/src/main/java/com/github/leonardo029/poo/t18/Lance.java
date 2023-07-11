@@ -1,4 +1,4 @@
-//package com.github.leonardo029.poo.t18;
+package com.github.leonardo029.poo.t18;
 
 public class Lance {
     private String numero;
