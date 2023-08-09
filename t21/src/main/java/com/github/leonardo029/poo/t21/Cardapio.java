@@ -2,7 +2,6 @@ package com.github.leonardo029.poo.t21;
 
 import java.util.HashSet;
 import java.util.Set;
-import java.util.stream.Collectors;
 
 public class Cardapio {
 
