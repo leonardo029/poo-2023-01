@@ -4,6 +4,6 @@ import java.util.List;
 
 public class Parque {
     
-    private List<Pessoa> pessoasVisitantesDoParque;
+    private List<Pessoa> pessoasPresentesNoParque;
     private Calendario calendarioAnual;
 }
