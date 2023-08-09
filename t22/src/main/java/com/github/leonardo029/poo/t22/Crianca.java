@@ -1,5 +1,8 @@
 package com.github.leonardo029.poo.t22;
 
-public class Crianca {
-    
+import java.util.List;
+
+public class Crianca extends Visitante {
+
+    private List<Visitante> acompanhantes;
 }

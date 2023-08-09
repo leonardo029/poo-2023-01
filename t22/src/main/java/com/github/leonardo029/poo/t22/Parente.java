@@ -1,5 +1,5 @@
 package com.github.leonardo029.poo.t22;
 
-public class Parente {
+public class Parente extends Visitante {
     
 }
