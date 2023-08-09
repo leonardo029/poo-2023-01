@@ -1,5 +1,5 @@
 package com.github.leonardo029.poo.t22;
 
-public class Policia {
+public class Policia extends Trabalhador {
     
 }
