@@ -1,5 +1,8 @@
 package com.github.leonardo029.poo.t21;
 
-public class Telefonista implements Colaborador {
+import java.util.List;
+
+public class Telefonista implements Trabalhador {
     
+    private List<Pedido> pedidosColetados;
 }
