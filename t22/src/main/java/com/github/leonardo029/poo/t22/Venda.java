@@ -5,7 +5,7 @@ import java.time.LocalTime;
 import java.util.Set;
 
 public class Venda {
-    
+
     private LocalDate data;
     private LocalTime hora;
     private Funcionario queRealizouAVenda;
