@@ -11,4 +11,20 @@ public class Venda {
     private Funcionario queRealizouAVenda;
     private CentroDeVenda ondeFoiFeitaAVenda;
     private Set<Bilhete> bilhetesVendidos;
+
+    
+    public CentroDeVenda getOndeFoiFeitaAVenda() {
+        return ondeFoiFeitaAVenda;
+    }
+    public void setOndeFoiFeitaAVenda(CentroDeVenda ondeFoiFeitaAVenda) {
+        this.ondeFoiFeitaAVenda = ondeFoiFeitaAVenda;
+    }
+
+    public Funcionario getQueRealizouAVenda() {
+        return queRealizouAVenda;
+    }
+    public void setQueRealizouAVenda(Funcionario queRealizouAVenda) {
+        this.queRealizouAVenda = queRealizouAVenda;
+    }
+    
 }
